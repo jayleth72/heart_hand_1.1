@@ -6,5 +6,8 @@ __pycache__/
 # Mac custom attributes file (Desktop Service Store)
 .DS_Store
  
+# virtual environment
+venv/
+
 # PyCharm files
 .idea/
